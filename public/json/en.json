@@ -1,0 +1,20 @@
+{
+  "content": {
+    "Home": {
+      "heading": "¡¡¡Bienvenido!!! Juego de Verdadero/Falso",
+      "body": "¿ReactJS es una biblioteca Javascript de código abierto, diseñada para crear interfaces de usuario, con el objetivo de facilitar el desarrollo de aplicaciones en una sola página. Es mantenido por Facebook y la comunidad de software libre?",
+      "button": "Verdadero",
+      "clicked": {
+        "heading": "Correcto",
+        "body": "Muy bien, sigue así, vas por buen camino :)",
+        "button": "Aceptar"
+      },
+      "button2": "Falso",
+      "clicked2": {
+        "heading": "Incorrecto",
+        "body": "Necesitas repasar, ánimo.",
+        "button": "Aceptar"
+      }
+    }
+  }
+}
